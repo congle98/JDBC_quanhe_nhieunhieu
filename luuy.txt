@@ -1,0 +1,1 @@
+lấy ra id của các book_category có category_id khác với category id của book,
